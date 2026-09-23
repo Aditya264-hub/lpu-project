@@ -68,4 +68,4 @@ storage)
   transfer
 
 ## Author
-Aditya Modi — B.Tech CSE (AI & ML), Lovely Professional University
+Aditya Mandhotra — B.Tech CSE (AI & ML), Lovely Professional University
